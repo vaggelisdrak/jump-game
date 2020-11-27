@@ -422,5 +422,5 @@ while loop:
                 b-=1
             h = 85
         pygame.display.update()
-        #clock.tick(60+speedobs)
+        #clock.tick(60+2*(speedobs))
         clock.tick(60)
